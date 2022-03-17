@@ -1,7 +1,6 @@
 # Demo
 
-- Learning github
-- Uma outra linha
-
+- Learning Github
+- Learning how to fix merges
 
 
